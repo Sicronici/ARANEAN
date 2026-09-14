@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ARANEAN/ARANEAN.vcxproj" Id="df0b6835-4e58-4f15-bcd6-be56519e8562" />
+</Solution>
